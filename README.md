@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shrinijakoundinya/Shrinijakoundinya/blob/main/shrinija-koundinya-banner.png.png?raw=true" alt="Shrinija Koundinya Banner" width="100%">
+</p>
+
 # Hi, I’m Shrinija Koundinya  
 
 🎓 *Computer Science Enthusiast | Data Science & Cybersecurity Aspirant*  
